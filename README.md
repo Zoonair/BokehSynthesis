@@ -1,6 +1,6 @@
 # Bokeh Synthesis (Android Portrait Mode)
 
-This project explores an alternative approach to synthesizing background blur ("bokeh") on Android phones (5.0+), using the camera's own focus system rather than relying on a second camera, a dedicated depth sensor, or a trained segmentation model.
+This project explores an alternative approach to synthesizing background blur ("bokeh") on Android phones (6.0+), using the camera's own focus system rather than relying on a second camera, a dedicated depth sensor, or a trained segmentation model.
 
 ## Common Methods
 
